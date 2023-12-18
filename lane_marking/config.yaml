@@ -2,9 +2,8 @@ LOSSES:
   chamfer: 1.0
   smoothness: 4.0
   exclusivity: 4.0
-  repulsion: 2.0
-first_iteration_num: 100
-second_iteration_num: 150
-third_iteration_num: 100
-case: "real"
+  repulsion: 4.0
+first_iteration_num: 150
+second_iteration_num: 100
+case: 1 # 1-4
 
